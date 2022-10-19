@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, my name is Ryan Belda
+
+I am a recent graduate from UCSB with a degree in Actiarial Science. I am currently looking for work as a Data Analyst/Scientist, and I am located in Orange County, California. Data and machine learning fascinates me. I am currently trying to further my knowledge by learning more about Neural Networks and Deep Learning. I love discussing data science and would love to chat with others in the field. Please do not hesistate to reach out to me if you would like to chat. You can reach me at belda.ryan.1@gmail.com
+
+Outside of data science, I love to surf, run, and watching sports. Anytime spent outside is a good time for me. I love the Dodgers and hope to watch them win another world series soon!
 
 <!--
 **ryanbelda/ryanbelda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
